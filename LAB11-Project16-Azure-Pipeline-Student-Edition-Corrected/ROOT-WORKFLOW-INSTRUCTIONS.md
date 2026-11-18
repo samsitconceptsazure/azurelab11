@@ -1,1 +1,0 @@
-Copy `.github/workflows/azure-deploy.yml` from this ZIP to the **root of your GitHub fork**. The lab folder itself belongs under `LAB 11 — ARM & Bicep Infrastructure as Code/`. Do not upload this ZIP as a nested folder and expect Actions to discover it. See lab `STUDENT-SETUP.md`.
